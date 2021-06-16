@@ -313,7 +313,7 @@ nav img {
   }
 
   .firstPart {
-    margin-left: 100px;
+    margin-left: 80px;
     min-height: 25vh;
     padding: 50px 0px;
     text-align: center;
@@ -384,7 +384,20 @@ nav img {
   }
 
   .last_text ul a{
-    font-size: 13px;
+    font-size: 11px;
   }
 
+}
+
+@media (max-width: 569px){
+
+  
+
+  .nav-links ul li{
+    padding: 3px 7px;
+  }
+
+  .last_text ul a{
+    font-size: 11px;
+  }
 }
