@@ -376,5 +376,15 @@ nav img {
 
   nav{
     flex-direction: column;
+    
   }
+
+  .nav-links ul li{
+    padding: 4px 10px;
+  }
+
+  .last_text ul a{
+    font-size: 13px;
+  }
+
 }
